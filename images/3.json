@@ -1,0 +1,11 @@
+{
+    "name": "World 3",
+    "description": "Something",
+    "image_url": "https://github.com/trada96/base_erc721_nft/blob/master/images/3.jpeg",
+    "attributes": [
+        {
+          "something_1": "", 
+          "something_2": ""
+        } 
+      ]
+}
